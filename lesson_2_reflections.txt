@@ -1,3 +1,5 @@
 What happens when you initialize a empty repo ? Why do you think that needs to be done ?
 When we initialize a empty repo a .git file is created and it means we are ready to add tracking to our files.
 
+How can you use the staging area to make sure that you have one commit per logical change ?
+Ans. We use git diff to check the changes between the working and the staging area
